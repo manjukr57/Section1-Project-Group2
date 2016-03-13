@@ -48,5 +48,4 @@ PROJECT TEAM, DELIVERABLES AND CHECKPOINTS
 |--------------------|------------------|---------------|-------------|
 | 2/22/2016 | Finished analyzing data | Manjunath | Found some bad data and asked my team mate to remove that data during cleaning process |
 | 2/28/2016 | Cleaning of data | Chinna Babu Sadam, Ananjay | Cleaning process finished and some of the bad data has been removed. |
-| 3/8/2016 | Installation and setup | Ananjay, Manjunath | Worked on setting up the environment and chosen Java, MySql to implement this project.
-Also started coding. |
+| 3/8/2016 | Installation and setup | Ananjay, Manjunath | Worked on setting up the environment and chosen Java, MySql to implement this project. Also started coding. |
